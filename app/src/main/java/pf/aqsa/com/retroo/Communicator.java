@@ -15,7 +15,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 /**
  * Created by Mahek on 1/12/2018.
  */
-
+/////https://www.sitepoint.com/retrofit-a-simple-http-client-for-android-and-java/
 public class Communicator {
 
     private static  final String TAG = "Communicator";
